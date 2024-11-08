@@ -13,7 +13,7 @@ RML24 is the first dataset designed specifically for deep learning applications 
 ###### MODEL  ARCHITECTURE AND TRANING PARAMETERS:
 ![image](./picture/modelpara.png)
 ###### Baseline:
-![image](./picture/model1.png) ![image](./picture/modelresult.png) ![image](./picture/modelconfuse.png)
+![image](./picture/model1.png) ![image](./picture/result.png)
 ## Dataset Usage Instructions
 
  - Modulation schemes (22 types): 
