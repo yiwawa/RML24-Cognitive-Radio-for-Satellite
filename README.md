@@ -24,4 +24,5 @@ RML24 is the first dataset designed specifically for deep learning applications 
  - Sample rate：1MHz.
  - Sample length： 2048.
 
-The dataset released on Github is associated with the preprint paper titled Cognitive Radio for Satellite TT & C System: A General Dataset Using Software-defined Radio (RML24). The paper provides detailed information on the data generation process. The specific generation code is still being organized, and it is expected to be officially open-sourced after the paper has been revised and published.
+##Detailed Description
+The related work for this dataset is presented in the preprint paper titled Cognitive Radio for Satellite TT & C System: A General Dataset Using Software-defined Radio (RML24).[link](https://www.techrxiv.org/users/860233/articles/1243118-cognitive-radio-for-satellite-tt-c-system-a-general-dataset-using-software-defined-radio-rml24) The paper provides detailed information on the data generation process. The specific generation code is still being organized, and it is expected to be officially open-sourced after the paper has been revised and published.
