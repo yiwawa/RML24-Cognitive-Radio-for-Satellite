@@ -2,7 +2,7 @@
 ​
 ***RML24 Dataset download:***
 
-%***[TeroBox](https://1024terabox.com/s/1Ws68uv8qOYcX--pLiKJcdg): https://1024terabox.com/s/1Ws68uv8qOYcX--pLiKJcdg***
+<!--***[TeroBox](https://1024terabox.com/s/1Ws68uv8qOYcX--pLiKJcdg): https://1024terabox.com/s/1Ws68uv8qOYcX--pLiKJcdg***-->
 
 ***[Zendo](https://zenodo.org/records/17800058): https://zenodo.org/records/17800058***
 
@@ -29,8 +29,16 @@ RML24 is the first dataset designed specifically for deep learning applications 
  - Sample length： 2048.
 
 ## Detailed Description
-The related work for this dataset is presented in the preprint paper titled [Cognitive Radio for Satellite TT & C System: A General Dataset Using Software-defined Radio (RML24).](https://www.techrxiv.org/users/860233/articles/1243118-cognitive-radio-for-satellite-tt-c-system-a-general-dataset-using-software-defined-radio-rml24) The paper provides detailed information on the data generation process. The specific generation code is still being organized, and it is expected to be officially open-sourced after the paper has been revised and published.
-
+<!--The related work for this dataset is presented in the preprint paper titled [Cognitive Radio for Satellite TT & C System: A General Dataset Using Software-defined Radio (RML24).](https://www.techrxiv.org/users/860233/articles/1243118-cognitive-radio-for-satellite-tt-c-system-a-general-dataset-using-software-defined-radio-rml24) The paper provides detailed information on the data generation process. The specific generation code is still being organized, and it is expected to be officially open-sourced after the paper has been revised and published.-->
+Please note that the dataset we have uploaded contains only 21 modulation types, as we found that SOQPSK‑PM may have some issues. Readers are encouraged to use the PKL‑format dataset first, which provides clearer labels. The original 22‑modulation dataset mentioned in the paper is currently being uploaded. If you have any other questions or suggestions regarding data usage, please feel free to contact me directly via email at: yzhang23@stu.xidian.edu.cn.
+If you use this data, please cite:
+@article{zhang2026cognitive,
+  title={Cognitive Radio for Satellite TT \& C System: A General Dataset Using Software-defined Radio},
+  author={Zhang, Yi and Zang, Bo and Ji, Hongbing and Li, Lin and Li, Shiyao and Chen, Leyan},
+  journal={Scientific Data},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
+}
 
 
 
